@@ -1,11 +1,13 @@
 # Intructions for running this app on your local machine
 
-> git clone https://github.com/rutulshah17/String-Calculator.git
+Please start by running below commands
 
-> cd String-Calculator
+> **git clone https://github.com/rutulshah17/String-Calculator.git**
 
-> npm install - to install all the dependencies for this project
+> **cd String-Calculator**
 
-> npm start - to start the application
+> **npm install** => to install all the dependencies for this project
 
-> npm test - to run test cases
+> **npm start** => to start the application
+
+> **npm test** => to run test cases
